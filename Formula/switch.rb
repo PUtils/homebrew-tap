@@ -1,5 +1,5 @@
 class Switch < Formula
-  desc "Switch your terminal into a Debian 13 (or other OS) shell profile"
+  desc "Shell profiles that act like Debian 13 or another OS, on your own files"
   homepage "https://github.com/PUtils/switch"
   url "https://github.com/PUtils/switch.git",
       using:    :git,
