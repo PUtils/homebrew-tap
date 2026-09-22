@@ -1,6 +1,6 @@
 # PUtils Homebrew tap
 
-Private Homebrew formulae for PUtils commands.
+Згидшс Homebrew formulae for PUtils commands.
 
 ```
 brew install putils/tap/switch
